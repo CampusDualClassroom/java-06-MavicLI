@@ -29,7 +29,7 @@ public class Exercise06 {
                 case 4:
                 case 5:
                 case 6: {
-                    System.out.println("It's night");
+                    System.out.println("It's night ");
                     break;
 
                 }
